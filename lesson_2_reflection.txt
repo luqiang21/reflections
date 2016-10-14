@@ -3,6 +3,7 @@ it add some configuration files to the directory to make it a repository. I need
 
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
+staging area is some thing like cached area. working directory is the current working place and repository include all files and history.
 
 How can you use the staging area to make sure you have one commit per logical
 change?
