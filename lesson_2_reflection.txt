@@ -7,14 +7,20 @@ staging area is some thing like cached area. working directory is the current wo
 
 How can you use the staging area to make sure you have one commit per logical
 change?
+comare staging area with the most recent commit to know the changed content 
 
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
+if you want to develop some new parallel ideas and want to keep the current one.
+Branches can also be merged.
 
 How do the diagrams help you visualize the branch structure?
+great. I could know a lot from the diagram.
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
+add changes which are unique.
+I don't know
 
 What are the pros and cons of Git’s automatic merging vs. always doing merges
 manually?
